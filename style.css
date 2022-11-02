@@ -482,6 +482,11 @@ progress::-moz-progress-bar {
   font-size: 2rem;
   text-decoration: none;
 }
+.logo svg{
+  width: 2rem;
+  height: 2rem;
+  fill: var(--first-color);
+}
 .portfolio-card {
   position: relative;
   width: 100%;
