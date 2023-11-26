@@ -1,7 +1,7 @@
-# Maquetacion Portafolio cv
+# Portafolio yoscv
 
-maquetacion html css javascript portafolio cv
+portafolio yosd cv
 
 ## One Page
 
--[Landing Page cv](https://mworkshopz2021.github.io/maquetacion)
+-[Landing Page yosc cv](https://mworkshopz2021.github.io/maquetacion)
